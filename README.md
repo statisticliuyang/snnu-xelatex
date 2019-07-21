@@ -1,5 +1,7 @@
 # Snnu-XeLaTex
 XeLaTex for Snnu.
+
+![image](https://github.com/statisticliuyang/box/blob/master/fm.jpg)
 <!--  __  __    _         _____           -->
 <!--  \ \/ /___| |    __ |_   _|____  __  -->
 <!--   \  // _ \ |   / _` || |/ _ \ \/ /  -->
@@ -36,11 +38,13 @@ you can edit and tanslate in Ctex,TexLive eta by your PC,pad or smart phone
 
 <!--![image](https://github.com/statisticliuyang/box/blob/master/Video_20190721_044317_880.gif)-->
 
-![image](https://github.com/statisticliuyang/box/blob/master/fm.jpg)
+## Reference
 
-![image](https://github.com/statisticliuyang/box/blob/master/re1.png)
+you an use this type of reference format by these 
 
 ![image](https://github.com/statisticliuyang/box/blob/master/re2.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/re1.png)
 
 ![image](https://github.com/statisticliuyang/box/blob/master/hya.png)
 
