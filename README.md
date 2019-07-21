@@ -31,11 +31,7 @@ XeLaTex for Snnu.
 |**.gitigonre**|*igonre the file created in translate and edit when upload to GitHub*|
 
 ##  Compatibility
-you can edit and tanslate in Ctex,TexLive eta by your PC,pad or smart phone.
-[![here](https://raw.githubusercontent.com/statisticliuyang/box/master/QUIK_20190721_140819.mp4)]
-
-<iframe height="442px" width="670px" 
-src="https://raw.githubusercontent.com/statisticliuyang/box/master/QUIK_20190721_140819.mp4" 
-frameborder="0" allowfullscreen></iframe>
+you can edit and tanslate in Ctex,TexLive eta by your PC,pad or smart phone
+[![here](https://raw.githubusercontent.com/statisticliuyang/box/master/QUIK_20190721_140819.mp4)].
 
 ![image](https://github.com/statisticliuyang/box/blob/master/Video_20190721_044317_880.gif)
