@@ -34,4 +34,6 @@ XeLaTex for Snnu.
 you can edit and tanslate in Ctex,TexLive eta by your PC,pad or smart phone
 [![here](https://raw.githubusercontent.com/statisticliuyang/box/master/QUIK_20190721_140819.mp4)].
 
+<!--![image](https://github.com/statisticliuyang/box/blob/master/Video_20190721_044317_880.gif)-->
+
 ![image](https://github.com/statisticliuyang/box/blob/master/Video_20190721_044317_880.gif)
