@@ -36,4 +36,32 @@ you can edit and tanslate in Ctex,TexLive eta by your PC,pad or smart phone
 
 <!--![image](https://github.com/statisticliuyang/box/blob/master/Video_20190721_044317_880.gif)-->
 
-![image](https://github.com/statisticliuyang/box/blob/master/Video_20190721_044317_880.gif)
+![image](https://github.com/statisticliuyang/box/blob/master/fm.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/re1.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/re2.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/hya.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/hyb.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/penv.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/t1.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/t2.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/bg.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/code.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/ttl.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/ttc1.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/tte1.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/ttc2.png)
+
+![image](https://github.com/statisticliuyang/box/blob/master/tte2.png)
