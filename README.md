@@ -1,7 +1,7 @@
 # Snnu-XeLaTex
 XeLaTex for Snnu.
 
-![image](https://github.com/statisticliuyang/box/blob/master/fm.jpg)
+![image](https://github.com/statisticliuyang/box/blob/master/fm1.jpg)
 <!--  __  __    _         _____           -->
 <!--  \ \/ /___| |    __ |_   _|____  __  -->
 <!--   \  // _ \ |   / _` || |/ _ \ \/ /  -->
