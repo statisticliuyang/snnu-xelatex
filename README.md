@@ -42,7 +42,7 @@ you can edit and tanslate in Ctex,TexLive eta by your PC,pad or smart phone
 
 you an use this type of reference format by these 
 
-```
+``` tex
 \vskip 0.15cm
 {\parindent=5pt
 \def\toto#1#2{\centerline{\hbox  to 0.7cm{[#1]\hss}
