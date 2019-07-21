@@ -1,5 +1,5 @@
 # Snnu-XeLaTex
-XeLaTex for Snnu
+XeLaTex for Snnu.
 <!--  __  __    _         _____           -->
 <!--  \ \/ /___| |    __ |_   _|____  __  -->
 <!--   \  // _ \ |   / _` || |/ _ \ \/ /  -->
@@ -28,5 +28,7 @@ XeLaTex for Snnu
 |**snnu.jpg**|*the mark of snnu in cover*|
 |**dt.jpg**|*some example in the article*|
 |**slashbox.stl**|*a configuration you may need*|
+|**.gitigonre**|*igtigonre the file created in translate and edit when upload to GitHub*|
 
 ##  Compatibility
+you can edit and tanslate in Ctex,TexLive eta by your PC,pad or smart phone.
