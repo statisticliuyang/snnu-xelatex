@@ -42,7 +42,7 @@ you can edit and tanslate in Ctex,TexLive eta by your PC,pad or smart phone
 
 you an use this type of reference format by these 
 
-'''tex
+```
 \vskip 0.15cm
 {\parindent=5pt
 \def\toto#1#2{\centerline{\hbox  to 0.7cm{[#1]\hss}
@@ -50,7 +50,7 @@ you an use this type of reference format by these
 \toto{1}{李子奈, 潘文卿. 计量经济学[M]. 北京：高等教育出版社, 2007.}
 \toto{2}{Li Y, Chen Y Q, Podlubny I. Residual analysis of  linear systems[J]. Automatica, 2009, 45(8):1965-1969.}
 }
-'''
+```
 
 ![image](https://github.com/statisticliuyang/box/blob/master/re1.png)
 
