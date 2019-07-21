@@ -84,24 +84,42 @@ in the end of article you can create a list of reference cite by these
 \bibliography{snnu}
 ```
 ![image](https://github.com/statisticliuyang/box/blob/master/re2.png)
+
 more information of setting in [![here](https://raw.githubusercontent.com/statisticliuyang/box/master/QUIK_20190721_140819.mp4)]
 
+## Header and Footer
+
+### First type
 
 ![image](https://github.com/statisticliuyang/box/blob/master/hya.png)
 
+### Second type
+
 ![image](https://github.com/statisticliuyang/box/blob/master/hyb.png)
 
+## Proof and Othor Environment 
+
 ![image](https://github.com/statisticliuyang/box/blob/master/penv.png)
+
+## Figure
 
 ![image](https://github.com/statisticliuyang/box/blob/master/t1.png)
 
 ![image](https://github.com/statisticliuyang/box/blob/master/t2.png)
 
+## Table
+
 ![image](https://github.com/statisticliuyang/box/blob/master/bg.png)
+
+## Code
 
 ![image](https://github.com/statisticliuyang/box/blob/master/code.png)
 
+## Contents
+
 ![image](https://github.com/statisticliuyang/box/blob/master/ttl.png)
+
+## Abstract
 
 ![image](https://github.com/statisticliuyang/box/blob/master/ttc1.png)
 
