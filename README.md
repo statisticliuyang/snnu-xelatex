@@ -29,7 +29,7 @@ XeLaTex for Snnu.
 |**snnu.bst**|*the bst file setting a type of reference format*|
 |**snnu.jpg**|*the mark of snnu in cover*|
 |**dt.jpg**|*some example in the article*|
-|**slashbox.stl**|*a configuration you may need*|
+|**slashbox.stl**|*a configuration file you may need*|
 |**.gitigonre**|*igonre the file created in translate and edit when upload to GitHub*|
 
 ##  Compatibility
