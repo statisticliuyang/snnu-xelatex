@@ -21,7 +21,7 @@ XeLaTex for Snnu
 ## Main Files Introduct
 
 |file name|introduct|
-|----------|----------------------------------------------|
+|:--------:|:--------:|
 |**snnu.tex**|*the main tex file which you need edit with UTF-8*|
 |**snnu.bib**|*the bib file saving the list of your reference cites*|
 |**snnu.bst**|*the bst file setting a type of reference format*|
