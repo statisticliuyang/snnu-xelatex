@@ -1,8 +1,5 @@
-# snnu-xelatex
-
-                             
-
-
+# Snnu-XeLaTex
+XeLaTex for Snnu
 <!--  __  __    _         _____           -->
 <!--  \ \/ /___| |    __ |_   _|____  __  -->
 <!--   \  // _ \ |   / _` || |/ _ \ \/ /  -->
@@ -20,7 +17,11 @@
 <!--  \___ \|  \| |  \| | | | |  -->
 <!--   ___) | |\  | |\  | |_| |  -->
 <!--  |____/|_| \_|_| \_|\___/   -->
-                         
+##Main Files Introduct
+
+|file name|introduct|
+|----------|----------------------------------------------|
+|snnu.tex|the main tex file which you need edit with UTF-8|
 
 
 
