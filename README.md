@@ -40,7 +40,10 @@ you can edit and tanslate in Ctex,TexLive eta by your PC,pad or smart phone
 
 ## Reference
 
-you an use this type of reference format by these 
+we have two differenct types of reference format
+
+### Self-Set Reference Format
+you an use the first type of reference format by these 
 
 ``` tex
 \vskip 0.15cm
@@ -54,7 +57,16 @@ you an use this type of reference format by these
 
 ![image](https://github.com/statisticliuyang/box/blob/master/re1.png)
 
+### Use natbib package
 
+to use another type of reference format you should make sure **snnu.bib** and **snnu.bst** in your root file 
+and then
+use natbib package
+```tex
+\usepackage[square,numbers,sort&compress]{natbib} %参考文献设置
+\setlength{\bibsep}{0ex}
+\bibliographystyle{snnu}
+```
 
 ![image](https://github.com/statisticliuyang/box/blob/master/re2.png)
 
