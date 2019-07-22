@@ -37,6 +37,10 @@ you can edit and tanslate in Ctex,TexLive eta by your PC,pad or smart phone
 [![here is an example in pad](https://raw.githubusercontent.com/statisticliuyang/box/master/QUIK_20190721_140819.mp4)].
 
 <!--![image](https://github.com/statisticliuyang/box/blob/master/Video_20190721_044317_880.gif)-->
+![image](http://img03.sogoucdn.com/app/a/100520146/70a370786389b2c7bd443c1548b882db)
+
+![image](http://img02.sogoucdn.com/app/a/100520146/bb31d298a440adf4fc84096035d32f6f)
+
 
 ## Reference
 
