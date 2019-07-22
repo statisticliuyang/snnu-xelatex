@@ -38,6 +38,7 @@ you can edit and tanslate in Ctex,TexLive eta by your PC,pad or smart phone
 
 <!--![image](https://github.com/statisticliuyang/box/blob/master/Video_20190721_044317_880.gif)-->
 
+(Compile with in Android)
 ![image](http://img02.sogoucdn.com/app/a/100520146/bb31d298a440adf4fc84096035d32f6f)
 
 <!--![image](http://img03.sogoucdn.com/app/a/100520146/70a370786389b2c7bd443c1548b882db)-->
@@ -52,7 +53,7 @@ you can edit and tanslate in Ctex,TexLive eta by your PC,pad or smart phone
 we have two differenct types of reference format
 
 ### Self-Set Reference Format
-you an use the first type of reference format by these 
+you can use the first type of reference format by these 
 ``` tex
 \vskip 0.15cm
 {\parindent=5pt
@@ -106,7 +107,7 @@ more information of setting in [![here](https://github.com/statisticliuyang/box/
 
 ![image](https://github.com/statisticliuyang/box/blob/master/hyb.png)
 
-## Proof and Othor Environment 
+## Proof and Other Environment 
 
 ![image](https://github.com/statisticliuyang/box/blob/master/penv.png)
 
