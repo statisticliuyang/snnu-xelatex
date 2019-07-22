@@ -85,7 +85,7 @@ in the end of article you can create a list of reference cite by these
 ```
 ![image](https://github.com/statisticliuyang/box/blob/master/re2.png)
 
-more information of setting in [![here](https://raw.githubusercontent.com/statisticliuyang/box/master/QUIK_20190721_140819.mp4)]
+more information of setting in [![here](https://raw.githubusercontent.com/statisticliuyang/box/master/natbib-zh.pdf)]
 
 ## Header and Footer
 
