@@ -3,7 +3,6 @@ XeLaTex for Snnu.
 
 <!--![image](https://github.com/statisticliuyang/box/blob/master/fm1.jpg)-->
 ![image](http://img02.sogoucdn.com/app/a/100520146/ab2ff67088f4546bf2293fbf9410c050)
-![image](http://img03.sogoucdn.com/app/a/100520146/70a370786389b2c7bd443c1548b882db)
 <!--  __  __    _         _____           -->
 <!--  \ \/ /___| |    __ |_   _|____  __  -->
 <!--   \  // _ \ |   / _` || |/ _ \ \/ /  -->
@@ -65,8 +64,8 @@ you can use the first type of reference format by these
 \toto{2}{Li Y, Chen Y Q, Podlubny I. Residual analysis of  linear systems[J]. Automatica, 2009, 45(8):1965-1969.}
 }
 ```
-![image](https://github.com/statisticliuyang/box/blob/master/re1.png)
-
+![image](http://img01.sogoucdn.com/app/a/100520146/644b9f6b51770408f7b07331407b4cba)
+<!--![image](https://github.com/statisticliuyang/box/blob/master/re1.png)-->
 ### Use natbib package
 
 to use another type of reference format you should make sure **snnu.bib** and **snnu.bst** in your root file 
@@ -95,7 +94,8 @@ in the end of article you can create a list of reference cite by these
 ```tex
 \bibliography{snnu}
 ```
-![image](https://github.com/statisticliuyang/box/blob/master/re2.png)
+![image](http://img01.sogoucdn.com/app/a/100520146/f674ed23dbd7e4747e44c001bb64cdf5)
+<!--![image](https://github.com/statisticliuyang/box/blob/master/re2.png)-->
 
 more information of setting in [![here](https://github.com/statisticliuyang/box/blob/master/natbib-zh.pdf)]
 
@@ -103,40 +103,40 @@ more information of setting in [![here](https://github.com/statisticliuyang/box/
 
 ### First type
 
-![image](https://github.com/statisticliuyang/box/blob/master/hya.png)
+![image](http://img02.sogoucdn.com/app/a/100520146/7f6394e18e81f93d19443834b9856925)
 
 ### Second type
 
-![image](https://github.com/statisticliuyang/box/blob/master/hyb.png)
+![image](http://img02.sogoucdn.com/app/a/100520146/9da2484ff9e23703c55dadc0b40cc4b4)
 
 ## Proof and Other Environment 
 
-![image](https://github.com/statisticliuyang/box/blob/master/penv.png)
+![image](http://img03.sogoucdn.com/app/a/100520146/06dbc4d96cf8a3ec76735632a2ad925c)
 
 ## Figure
 
-![image](https://github.com/statisticliuyang/box/blob/master/t1.png)
+![image](http://img02.sogoucdn.com/app/a/100520146/ec28dfd1316bd3de664b4b011b2337af)
 
-![image](https://github.com/statisticliuyang/box/blob/master/t2.png)
+![image](http://img04.sogoucdn.com/app/a/100520146/f6e859cc2ceb841090c2fab3f4bf3c6f)
 
 ## Table
 
-![image](https://github.com/statisticliuyang/box/blob/master/bg.png)
+![image](http://img02.sogoucdn.com/app/a/100520146/53fa6f53187cc0733c63ce4b543a1978)
 
 ## Code
 
-![image](https://github.com/statisticliuyang/box/blob/master/code.png)
+![image](http://img02.sogoucdn.com/app/a/100520146/9587ad45903a134c646584d225a81827)
 
 ## Contents
 
-![image](https://github.com/statisticliuyang/box/blob/master/ttl.png)
+![image](http://img04.sogoucdn.com/app/a/100520146/53ccf3cf3b4d3d322b3ad00559f21632)
 
 ## Abstract
 
-![image](https://github.com/statisticliuyang/box/blob/master/ttc1.png)
+![image](http://img03.sogoucdn.com/app/a/100520146/64851a1eca49a8bb3f9d8f021f9ef94c)
 
-![image](https://github.com/statisticliuyang/box/blob/master/tte1.png)
+![image](http://img02.sogoucdn.com/app/a/100520146/c489f7fa34f62575d4d1c329eab1bbeb)
 
-![image](https://github.com/statisticliuyang/box/blob/master/ttc2.png)
+![image](http://img02.sogoucdn.com/app/a/100520146/70d398bdac55a40548d5178d438c6bf2)
 
-![image](https://github.com/statisticliuyang/box/blob/master/tte2.png)
+![image](http://img01.sogoucdn.com/app/a/100520146/41343cb3c194a9feac4ac185a8a11575)
